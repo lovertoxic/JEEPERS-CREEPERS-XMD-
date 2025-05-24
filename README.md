@@ -60,19 +60,19 @@ REMEMBER TO STAR ✨ THE REPO and FORK IT FOR UPDATES
 
 <div style="background: #000000; border: 1px solid #ff00ff; border-radius: 15px; padding: 20px; box-shadow: 0 0 15px #ff00ff; margin-bottom: 30px;">
 
-### <img src="https://github.com/lovertoxic/JEEPERS-CREEPERS-XMD-/tree/main/blob/main/assets/keyicon.gif?raw=true" width="25"/> 2. Get Session ID
+### <img src="https://github.com/lovertoxic/JEEPERS-CREEPERS-XMD-/tree/main/blob/main/assets/keyicon.gif?raw=true" width="25"/> 2. JEEPERS CREEPERS-XMD SESSION LINK GET HERE👇👇
   
 <div style="background: #111111; padding: 15px; border-radius: 10px; border-left: 3px solid #00ffff;">
   
 --- 
-  > **⚠️ LINK (01)**
+  > **😈 SESSION LINK (1)**
   <a href='https://JEEPERS-CREEPERS-/tree/main-session-generator.onrender.com/' target="_blank">
     <img src='https://img.shields.io/badge/PAIR_CODE_1-00FFFF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a></br>
   
   <div style="height: 10px;"></div>
   
-  > **⚠️ LINK (02)**
+  > **😈 SESSION LINK LINK (02)**
   <a href='https://JEEPERS-CREEPERS-XMD-/tree/main-session-generator.onrender.com/' target="_blank">
     <img src='https://img.shields.io/badge/PAIR_CODE_2-FF00FF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a>
@@ -90,7 +90,7 @@ REMEMBER TO STAR ✨ THE REPO and FORK IT FOR UPDATES
   <img src="https://github.com/lovertoxic/JEEPERS-CREEPERS-XMD-/tree/main/blob/main/assets/techwave.gif?raw=true" width="80%"/>
 </div>
 
-## 📡 DEPLOYMENT OPTIONS
+## 📡 DEPLOYMENT PLATFORM OPTIONS
 
 <div align="center">
   <table>
@@ -127,7 +127,7 @@ REMEMBER TO STAR ✨ THE REPO and FORK IT FOR UPDATES
   <img src="https://github.com/lovertoxic/JEEPERS-CREEPERS-XMD-/tree/main/blob/main/assets/cyberdivider.gif?raw=true" width="100%"/>
 </div>
 
-## 🪀  SUPPORT CHANNEL
+## 🪀  FOLLOW THE CHANNEL FOR UPDATES
 
 <div align="center">
   <a href="https://whatsapp.com/channel/0029VawCel7GOj9ktLjkxQ3g">
@@ -139,11 +139,11 @@ REMEMBER TO STAR ✨ THE REPO and FORK IT FOR UPDATES
   <img src="https://https://github.com/lovertoxic/JEEPERS-CREEPERS-XMD-/tree/main/blob/main/assets/neonpulse.gif?raw=true" width="300"/>
 </div>
 
-## ⚠️ WARNING !
+## ⚠️ WARNING ABOUT JEEPERS-CREEPERS-XMD!
 
 <div style="background-color: #000000; border-left: 5px solid #ff00ff; padding: 10px; border-radius: 0 15px 15px 0; box-shadow: 0 0 15px #ff00ff;">
   <h3 style="color: #00ffff; font-family: 'Orbitron', sans-serif;">DISCLAIMER</h3>
-  <p style="color: #ffffff;">This bot is not affiliated with WhatsApp Inc. Use at your own risk. Misuse may result in account bans.</p>
+  <p style="color: #ffffff;">BEST BOT EVER TO BE DEPLOYED AT ALL PLATFORM AND YOUR ACCOUNT IS SAFE WITH NO BAN.</p>
 </div>
 
 <div align="center">
@@ -161,7 +161,7 @@ REMEMBER TO STAR ✨ THE REPO and FORK IT FOR UPDATES
   <img src="https://github.com/lovertoxic/JEEPERS-CREEPERS-XMD-/tree/main/blob/main/assets/futuretech.gif?raw=true" width="100%"/>
 </div>
 
-## 👑 JEEPERS CREEPER-XMD 
+## 👑 JEEPERS CREEPER-XMD best WhatsApp bot
 
 ```diff
 + Project Status: Active
