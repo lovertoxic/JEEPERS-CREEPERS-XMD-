@@ -131,7 +131,7 @@ let menuMsg = `
                 externalAdReply: {
                     title: "JEEPERS CREEPERS-XMD HOLY BIBLE LIST",
                     body: "Live with God my friends you don't know your tomorrow",
-                    thumbnailUrl: "https://files.catbox.moe/3np1r6.jpg",
+                    thumbnailUrl: "https://files.catbox.moe/0ql1k8.jpeg",
                     sourceUrl: "https://whatsapp.com/channel/0029VawCel7GOj9ktLjkxQ3g",
                     mediaType: 1,
                     renderLargerThumbnail: true
