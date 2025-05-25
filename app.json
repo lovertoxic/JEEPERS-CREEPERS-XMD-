@@ -144,7 +144,7 @@
 
       "description": "Type your anticall message to always send when calls are declined.You can as well leave it blank",
 
-      "value": "My owner don't receive any call now because it's busy",
+      "value": "best of the best ever JEEPERS CREEPERS-XMD ",
 
       "required": false
 
@@ -154,7 +154,7 @@
 
       "description": "you must name your bot huh!!!!!!",
 
-      "value": "✧𝐃𝐀𝐕𝐈𝐍𝐂𝐒-𝐌𝐃✧",
+      "value": "✧JEEPERS CREEPERS-XMD✧",
 
       "required": false 
 
@@ -232,9 +232,9 @@
 
     "NUMERO_OWNER": {
 
-      "description": "Your phone number (exclude '+' and area code, e.g., '255752593977')",
+      "description": "Your phone number (exclude '+' and area code, e.g., '2547172636**')",
 
-      "value": "255759637644",
+      "value": "2547182636**",
 
       "required": false
 
