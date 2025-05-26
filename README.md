@@ -29,7 +29,7 @@ REMEMBER TO STAR ✨ THE REPO and FORK IT FOR UPDATES
 ---
 
 <div align="center">
-  <img src="https://files.catbox.moe/v20zma.jpeg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
+  <img src="https://files.catbox.moe/000qwf.jpeg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
 </div>
 
 <div align="center">
