@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://github.com/lovertoxic/JEEPERS-CREEPERS-XMD-/tree/main/followers"><img title="Followers" src="https://github.com/lovertoxic/JEEPERS-CREEPERS-XMD-.git?color=EB5406&style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://github.com/lovertoxic/JEEPERS-CREEPERS-XMD-.git"><img title="Stars" src="https://JEEPERS CREEPER?color=FFCE44&style=for-the-badge&logo=reverbnation&logoColor=white"></a>
+  <a href="https://github.com/lovertoxic/JEEPERS-CREEPERS-XMD-.git"><img title="Stars"src="https://JEEPERS CREEPER?color=FFCE44&style=for-the-badge&logo=reverbnation&logoColor=white"></a>
   <a href="https://github.com/lovertoxic/JEEPERS-CREEPERS-XMD-.git"><img title="Forks" src="https://github.com/lovertoxic/JEEPERS-CREEPERS-XMD-.git?color=FF007F&style=for-the-badge&logo=git&logoColor=white"></a>
   <a href="https://github.com/lovertoxic/JEEPERS-CREEPERS-XMD-/tree/main/"><img title="Size" src="https://img.shields.io/github/repo-size/Sarkar-Bandaheali/Sarkar-MD?style=for-the-badge&color=FFFF33&logo=docusign&logoColor=white"></a>
   <a href="https://https://github.com/lovertoxic/JEEPERS-CREEPERS-XMD-/tree/main/graphs/commit-activity"><img height="28" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge&logo=gitpod&logoColor=white"></a>
