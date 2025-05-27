@@ -47,7 +47,7 @@ REMEMBER TO STAR ✨ THE REPO and FORK IT FOR UPDATES
 
 <div style="background: #000000; border: 1px solid #00ffff; border-radius: 15px; padding: 20px; box-shadow: 0 0 15px #00ffff; margin-bottom: 30px;">
   
-### <img src="https://github.com/lovertoxic/JEEPERS-CREEPERS-XMD-/tree/main/blob/main/assets/forkicon.gif?raw=true" width="25"/> 1. Fork This Repository
+### <img src="https://github.com/lovertoxic/JEEPERS-CREEPERS-XMD-.git?raw=true" width="25"/> 1. Fork This Repository
   
 <div style="background: #111111; padding: 15px; border-radius: 10px; border-left: 3px solid #ff00ff;">
   <p style="color: #00ffff;">First star & Fork repo using button Below !</p>
