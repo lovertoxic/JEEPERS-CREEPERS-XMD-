@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=JEEPERS+CREEPER+XMD;ULTIMATE+WHATSAPP+BOT;MULTI-DEVICE+SUPPORT;POWERED+BY;TOXIC+LOVER+HIMSELF;19+YEARS+OLD+BOY;A+LUYHA+FINEST;FAST++SECURE++RELIABLE" alt="Animated Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=JEEPERS+CREEPER+XMD;ULTIMATE+WHATSAPP+BOT;MULTI-DEVICE+SUPPORT;POWERED+BY;TOXIC+LOVER+HIMSELF;19+YEARS+OLD+BOY;A+LUYHA+FINEST;FAST++SECURE++RELIABLE;REMEMBER+TO+STAR;AND+ FORK+THE+REPO" alt="Animated Typing SVG" />
 </p>
 
 <div align="center">
-  <a href="https://github.com/lovertoxic/JEEPERS-CREEPERS-XMD-/tree/main/followers"><img title="Followers" src="https://github.com/lovertoxic/JEEPERS-CREEPERS-XMD-.git?color=EB5406&style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/lovertoxic"><img title="Followers" src="https://github.com/lovertoxic/JEEPERS-CREEPERS-XMD-.git?color=EB5406&style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://github.com/lovertoxic/JEEPERS-CREEPERS-XMD-.git"><img title="Stars"src="https://JEEPERS CREEPER?color=FFCE44&style=for-the-badge&logo=reverbnation&logoColor=white"></a>
   <a href="https://github.com/lovertoxic/JEEPERS-CREEPERS-XMD-.git"><img title="Forks" src="https://github.com/lovertoxic/JEEPERS-CREEPERS-XMD-.git?color=FF007F&style=for-the-badge&logo=git&logoColor=white"></a>
   <a href="https://github.com/lovertoxic/JEEPERS-CREEPERS-XMD-/tree/main/"><img title="Size" src="https://img.shields.io/github/repo-size/Sarkar-Bandaheali/Sarkar-MD?style=for-the-badge&color=FFFF33&logo=docusign&logoColor=white"></a>
@@ -66,14 +66,14 @@ REMEMBER TO STAR ✨ THE REPO and FORK IT FOR UPDATES
   
 --- 
   > **😈 SESSION LINK (1)**
-  <a href='https://jeepers-creeper-xmd.onrender.com/' target="_blank">
+  <a href='https://jeepers-creepers-xmd-session-link-1.onrender.com/' target="_blank">
     <img src='https://img.shields.io/badge/PAIR_CODE_1-00FFFF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a></br>
   
   <div style="height: 10px;"></div>
   
   > **😈 SESSION LINK LINK (02)**
-  <a href='https://JEEPERS-CREEPERS-XMD-/tree/main-session-generator.onrender.com/' target="_blank">
+  <a href='https://jeepers-creepers-xmd-session-link-1.onrender.com/' target="_blank">
     <img src='https://img.shields.io/badge/PAIR_CODE_2-FF00FF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a>
   
