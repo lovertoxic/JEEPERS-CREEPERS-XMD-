@@ -1,6 +1,6 @@
 
  {
-  "name": "DAVINCS_MD",
+  "name": "JEEPERS CREEPERS-XMD",
   "version": "1.0.0",
   "description": "",
   "main": "control.js",
@@ -15,12 +15,12 @@
   "keywords": [
     "bot",
     "Baileys",
-    "Davincs-Md",
+    "Jeepers creepers-xmd",
     "whatsapp",
     "whatsapp-bot",
     "allan@Davincs"
    ],
-  "author": "allan@davincs",
+  "author": "alonetech111@gmail.com",
 "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
