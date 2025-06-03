@@ -79,14 +79,14 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*✅*"
+      "value": "*status viewed by jeepers creepers-xmd✅*"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "🄾🄱🄴🄳 🅃🄴🄲🄷"
+      "value": "jeepers creepers"
 }, 
 
     "OWNER_NUMBER": {
