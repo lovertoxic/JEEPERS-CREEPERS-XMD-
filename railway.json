@@ -1,0 +1,16 @@
+{
+  "name": "JEEPERS CREEPER-XMD",
+  "description": "For deploying JEEPERS CREEPER-XMD.",
+  "repository": "https://github.com/lovertoxic/JEEPERS-CREEPERS-XMD-",
+  "build": {
+    "commands": {
+      "install": "yarn install",
+      "start": "yarn start"
+    }
+  },
+  "envs": {
+    "SESSION_ID": {
+      "description": "Put Your Session Id"
+    }
+  }
+}
