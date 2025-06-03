@@ -1,4 +1,4 @@
-// Obed TechX - JEEPERS CREEPER-XMD 
+// JEEPERS CREEPERS- JEEPERS CREEPER-XMD 
 // Dont Remove Credit From File 
 
 const { cmd } = require("../command");
