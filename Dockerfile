@@ -10,7 +10,7 @@ RUN apt-get update && \
   npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
   
-RUN git clonehttps://github.com/lovertoxic/JEEPERS-CREEPERS-XMD-.git /root/lucky_bot
+RUN git clone https://github.com/lovertoxic/JEEPERS-CREEPERS-XMD-.git /root/lucky_bot
 WORKDIR /root/lucky_Bot/
 
 
