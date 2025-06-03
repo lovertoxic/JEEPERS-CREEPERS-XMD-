@@ -1,6 +1,6 @@
 FROM node:lts-buster
 
-RUN git clone https://github.com/lovertoxic/JEEPERS-CREEPERS-XMD-/root/ikObed
+RUN git clone https://github.com/lovertoxic/JEEPERS-CREEPERS-XMD-
 
 WORKDIR /root/ikObed
 
