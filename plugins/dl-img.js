@@ -37,7 +37,7 @@ cmd({
                 from,
                 { 
                     image: { url: imageUrl },
-                    caption: `📷 Result for: ${query}\n> © Powered by ObedTechX`
+                    caption: `📷 Result for: ${query}\n> © Powered by JEEPERS CREEPER-XMD`
                 },
                 { quoted: mek }
             );
