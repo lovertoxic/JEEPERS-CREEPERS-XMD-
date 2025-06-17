@@ -1,9 +1,9 @@
 <p align="center">
-  <h1 align="center" style="font-family: 'Orbitron', sans-serif; text-shadow: 0 0 10px #00ffff, 0 0 20px #0088ff;">JEEPERS CREEPER-XMD</h1>
+  <h1 align="center" style="font-family: 'Orbitron', sans-serif; text-shadow: 0 0 10px #00ffff, 0 0 20px #0088ff;">EMMY V1</h1>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=JEEPERS+CREEPER+XMD;ULTIMATE+WHATSAPP+BOT;MULTI-DEVICE+SUPPORT;POWERED+BY;TOXIC+LOVER+HIMSELF;19+YEARS+OLD+BOY;A+LUYHA+FINEST;FAST++SECURE++RELIABLE" alt="Animated Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=EMMMY+V1;ULTIMATE+WHATSAPP+BOT;MULTI-DEVICE+SUPPORT" alt="Animated Typing SVG" />
 </p>
 
 <div align="center">
@@ -130,7 +130,7 @@ REMEMBER TO STAR ✨ THE REPO and FORK IT FOR UPDATES
 ## 🪀  FOLLOW THE CHANNEL FOR UPDATES
 
 <div align="center">
-  <a href="https://whatsapp.com/channel/0029VawCel7GOj9ktLjkxQ3g">
+  <a href="https://whatsapp.com/channel/0029Vaw3B9GLI8YhcSNBrw0f">
     <img src="https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000"/>
   </a>
 </div>
