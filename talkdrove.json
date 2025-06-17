@@ -1,6 +1,6 @@
 
 {
-    "bot-name": "JEEPERS CREEPER-XMD",
+    "bot-name": "EMMY V1",
     "description": "Whiskey Sockets Baileys Whatsapp bot By Mr Caseyrhodes",
     "logo": "https://files.catbox.moe/gskuyf.jpg",
     "keywords": ["bot"],
@@ -97,7 +97,7 @@
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "JEEPERS CREEPER-XMD"
+      "value": "EMMY V1"
 
       }, 
 
