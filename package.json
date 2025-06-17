@@ -1,12 +1,12 @@
 {
-  "name": "JEEPERS CREEPER-XMD",
+  "name": "EMMY V1",
   "version": "4.0.0",
   "description": "A WhatsApp Bot Created By TOXIC LOVER",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name JEEPERS CREEPER-XMD",
-    "stop": "pm2 stop JEEPERS CREEPER-XMD",
-    "restart": "pm2 restart JEEPERS CREEPER-XMD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name EMMY V1",
+    "stop": "pm2 stop EMMY V1",
+    "restart": "pm2 restart EMMY V1"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "npm:@fizzxydev/baileys-pro@8.5.12",
