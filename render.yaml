@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: JEEPERS CREEPERS-XMD
+    name: EMMY V1
     env: node
     region: singapore
     buildCommand: "yarn install"
