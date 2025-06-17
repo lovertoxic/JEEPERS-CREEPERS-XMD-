@@ -2,10 +2,10 @@
 {
     "bot-name": "EMMY V1",
     "description": "Whiskey Sockets Baileys Whatsapp bot By Mr Caseyrhodes",
-    "logo": "https://files.catbox.moe/gskuyf.jpg",
+    "logo": "https://files.catbox.moe/wr2vau.jpg",
     "keywords": ["bot"],
     "documentation-link": "https://jeepers-creepers-xmd-session-link-1.onrender.com/",
-    "owner-verification": "kingsleybravo381@gmail.com",
+    "owner-verification": "emmy",
   
     "env": {
       "SESSION_ID": {
