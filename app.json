@@ -1,8 +1,8 @@
 {
-  "name": "JEEPERS CREEPER-XMD",
+  "name": "EMMY V1",
   "description": "Javascript WhatsApp bot made by TOXIC LOVER Jeepers creepers tech",
-  "logo": "https://files.catbox.moe/2vosl8.mp4",
-  "keywords": ["JEEPERS CREEPER-XMD"],
+  "logo": "https://files.catbox.moe/130fey.jpg",
+  "keywords": ["EMMY V1"],
   "success_url": "/",
 
     "stack": "container",
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "JEEPERS CREEPER-XMD"
+      "value": "EMMY V1"
     }, 
       
     "PREFIX": {
@@ -79,27 +79,27 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*status viewed by jeepers creepers-xmd✅*"
+      "value": "*status viewed by EMMY V1✅*"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "jeepers creepers"
+      "value": "EMMY V1"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "254717263689"
+      "value": "2547172636**"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "JEEPERS CREEPER-XMD"
+      "value": "EMMY V1"
 
       }, 
 
@@ -132,13 +132,13 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": false,
-      "value": "https://files.catbox.moe/5fvw8r.jpeg"
+      "value": "https://files.catbox.moe/130fey.jpg"
     },
     
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ jeeper creepers tech*"
+      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ TOXIC LOVER tech*"
     },
 
       "DELETE_LINKS": {
