@@ -1,8 +1,0 @@
-services:
-  - type: web
-    name: EMMY V1
-    env: node
-    region: singapore
-    buildCommand: "yarn install"
-    startCommand: "npm start"
-    plan: free
